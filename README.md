@@ -6,9 +6,8 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-API-FFD21E?logo=huggingface)](https://huggingface.co/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-> **"Anime kwa Kiswahili, data kwa Kiasi — na vibe za Tetris!"**
 
-An interactive personality quiz that matches you with an anime character based on your answers. Built with a **retro Tetris aesthetic**, **AI-powered matching** via Hugging Face, and **shareable image cards** for WhatsApp & Instagram Stories.
+A personality quiz that matches you with an anime character based on your answers. Built with **AI-powered matching** 
 
 ---
 
@@ -26,7 +25,7 @@ An interactive personality quiz that matches you with an anime character based o
 
 ## 🚀 Live Demo
 
-[**anime-fit-tz.vercel.app**](https://anime-fit-tz.vercel.app)
+[**https://animefittz.netlify.app**](https://animefittz.netlify.app)
 
 
 ## 🎮 How to Play (Quiz Questions)
@@ -59,7 +58,7 @@ After completing the quiz:
 
 ## 📄 License
 
-MIT License — free for personal and commercial use.
+MIT License. Free for personal and commercial use.
 
 ---
 ## 📞 Contact & Support
