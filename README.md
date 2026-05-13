@@ -61,10 +61,6 @@ After completing the quiz:
 MIT License. Free for personal and commercial use.
 
 ---
-## 📞 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/anime-fit-tz/issues)
-
 
 ## ⭐ Show Your Support
 
