@@ -208,7 +208,7 @@ const CombinedShareCard: React.FC<CombinedShareCardProps> = ({
           </div>
           
           <div style={{ borderTop: '1px solid #00f3ff', marginTop: '20px', paddingTop: '16px', textAlign: 'center' }}>
-            <p style={{ fontFamily: 'monospace', fontSize: '10px', color: '#666' }}>Take the quiz at AnimeFitTz</p>
+            <p style={{ fontFamily: 'monospace', fontSize: '10px', color: '#666' }}>Take the quiz at Bongo.Anime.Fit</p>
           </div>
         </div>
         

@@ -113,7 +113,7 @@ const ShareCard: React.FC<ShareCardProps> = ({ character, anime, description, fu
           </div>
           
           <div style={{ borderTop: '2px solid #00f3ff', marginTop: '24px', paddingTop: '24px', textAlign: 'center' }}>
-            <p style={{ fontFamily: 'monospace', fontSize: '10px', color: '#00f3ff' }}>Take the quiz at AnimeFitTz</p>
+            <p style={{ fontFamily: 'monospace', fontSize: '10px', color: '#00f3ff' }}>Take the quiz at bongo-anime-fit</p>
           </div>
         </div>
         
