@@ -25,7 +25,7 @@ A personality quiz that matches you with an anime character based on your answer
 
 ## 🚀 Live Demo
 
-[**https://animefittz.netlify.app**](https://animefittz.netlify.app)
+[**https://bongo-anime-fit.netlify.app**](https://bongo-anime-fit.netlify.app)
 
 
 ## 🎮 How to Play (Quiz Questions)
@@ -52,7 +52,7 @@ After completing the quiz:
 | **WhatsApp Status** | Download image → Post to status |
 | **WhatsApp Chat** | Click "Share WhatsApp" → Auto-filled message |
 | **Instagram Stories** | Download image → Upload to story |
-| **Instagram Feed** | Download image → Post with tag #AnimeFitTz |
+| **Instagram Feed** | Download image → Post with tag #bongo-anime-fit |
 
 ---
 
