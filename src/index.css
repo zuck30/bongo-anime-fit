@@ -1,0 +1,57 @@
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #1a0b2e;
+    color: white;
+    font-family: 'VT323', 'Courier New', monospace;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@layer components {
+  .pixel-border {
+    border: 2px solid #00f3ff;
+    box-shadow: 0 0 0 2px #1a0b2e, 0 0 0 4px #ff00e0;
+  }
+  
+  .neon-text {
+    text-shadow: 0 0 5px #00f3ff, 0 0 10px #00f3ff, 0 0 20px #ff00e0;
+  }
+  
+  .block-card {
+    background: rgba(26, 11, 46, 0.95);
+    border: 2px solid #00f3ff;
+    padding: 2rem;
+    backdrop-filter: blur(10px);
+  }
+  
+  .tetris-button {
+    padding: 0.75rem 1.5rem;
+    font-family: 'Press Start 2P', monospace;
+    font-size: 0.75rem;
+    background-color: #4a0e6b;
+    border: 2px solid #00f3ff;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+  }
+  
+  .tetris-button:hover {
+    background-color: #00f3ff;
+    color: #1a0b2e;
+    transform: translateY(-2px);
+  }
+  
+  .tetris-button:active {
+    transform: translateY(1px);
+  }
+}
